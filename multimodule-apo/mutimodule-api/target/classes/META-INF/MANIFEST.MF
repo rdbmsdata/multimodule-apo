@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mutimodule-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: x136858
+Implementation-Vendor-Id: com.multi
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mutimodule-api
+Created-By: Maven Integration for Eclipse
+
